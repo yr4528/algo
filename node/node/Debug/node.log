@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yr452\source\repos\algo\node\node\main.cpp(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  node.vcxproj -> C:\Users\yr452\source\repos\algo\node\Debug\node.exe
