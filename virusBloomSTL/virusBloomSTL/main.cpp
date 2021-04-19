@@ -43,5 +43,12 @@ int main() {
 		}
 	}
 
+	for (int y = 0; y < n; y++) {
+		for (int x = 0; x < n; x++) {
+			cout << map[y][x];
+		}
+		cout << "\n";
+	}
+
 	return 0;
 }
