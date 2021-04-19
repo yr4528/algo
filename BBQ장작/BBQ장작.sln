@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BBQ장작", "BBQ장작\BBQ장작.vcxproj", "{6DDD2EF5-8549-41D1-9627-7F1809712CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Debug|x64.ActiveCfg = Debug|x64
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Debug|x64.Build.0 = Debug|x64
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Debug|x86.Build.0 = Debug|Win32
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Release|x64.ActiveCfg = Release|x64
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Release|x64.Build.0 = Release|x64
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Release|x86.ActiveCfg = Release|Win32
+		{6DDD2EF5-8549-41D1-9627-7F1809712CFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C06DE0-E028-46E3-81E0-CDCD42AC1FF0}
+	EndGlobalSection
+EndGlobal
