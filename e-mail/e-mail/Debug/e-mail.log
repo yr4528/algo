@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yr452\source\repos\algo\e-mail\e-mail\main.cpp(25,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  e-mail.vcxproj -> C:\Users\yr452\source\repos\algo\e-mail\Debug\e-mail.exe
