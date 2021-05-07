@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\yr452\source\repos\algo\lost_clothes\lost_clothes\소스.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\yr452\source\repos\algo\lost_clothes\lost_clothes\소스.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  lost_clothes.vcxproj -> C:\Users\yr452\source\repos\algo\lost_clothes\Debug\lost_clothes.exe
